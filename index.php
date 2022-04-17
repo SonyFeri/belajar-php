@@ -1,6 +1,6 @@
 <?php	
 	// hello world nya
-	$name ="sony salsa";
+	$name ="sony ";
 	echo "hello world " . $name;
 	
 	//line baru
